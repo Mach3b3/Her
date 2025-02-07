@@ -504,10 +504,10 @@ body {
   top: 0;
   left: 50%;
   transform: translateX(-50%);
-  z-index: 100; /* Make sure it is on top of other elements */
+  z-index: 100;
   padding: 10px;
   font-size: 2rem;
-  color: white;
+  color: #24803e; 
   font-family: Arial, sans-serif;
   text-align: center;
 }
