@@ -515,7 +515,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: clamp(1rem, 2vw, 1.5rem);
   font-weight: 600;
-  line-height: 1.9;
+  line-height: 1.4;
   text-shadow: 0 0 10px rgba(36, 128, 62, 0.3);
 }
 
